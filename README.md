@@ -21,10 +21,13 @@ This event app let user browses, RSVP and on-location checks in using iBeacon te
  
  registration 
  https://github.com/blky/Tip-CodePath
+ 
  project 1: RottenTomatoes Client
  https://github.com/blky/RMMovie
+ 
  project 2: Yelp client
  https://github.com/blky/Yelp.CodePath
+ 
  project 3: Twitter client:
  https://github.com/blky/Tweet.CodePath
  
